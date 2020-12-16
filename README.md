@@ -1,5 +1,5 @@
 
-This work has been developed for master's dissertation of Paulo Henrique Maia Soares in the Computer Science Program of the Federal University of Uberlandia. 
+This work has been developed during 2018-2020 for the master of science dissertation of Paulo Henrique Maia Soares in the Computer Science Program of the Federal University of Uberlandia. 
 Advisor: Marcelo Keese Albertini, Ph.D (Federal University of Uberlandia).
 
 # Abstract
